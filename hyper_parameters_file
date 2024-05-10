@@ -1,0 +1,17 @@
+
+k=6, num_epochs=100, lr=2, weight_decay=0.001, batch_size=64
+log_rmse: train=2.13420902689298, valid=2.108969579140345
+2024-05-05 19:42:19
+
+k=5, num_epochs=100, lr=1, weight_decay=0.01, batch_size=128
+log_rmse: train=3.539631700515747, valid=3.5385092735290526
+2024-05-05 20:56:01
+
+k=4, num_epochs=100, lr=2, weight_decay=0.01, batch_size=128
+log_rmse: train=2.99381160736084, valid=2.9923346638679504
+2024-05-06 18:50:39
+
+k=4, num_epochs=100, lr=2, weight_decay=0.01, batch_size=128
+log_rmse: train=3.0633694529533386, valid=3.06251060962677
+2024-05-06 20:39:41
+
